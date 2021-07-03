@@ -1,0 +1,16 @@
+ros-foxy-sol-vendor (0.0.1-1focal) focal; urgency=high
+
+  * Add package description
+  * Merge pull request #1 <https://github.com/OUXT-Polaris/sol_vendor/issues/1> from OUXT-Polaris/workflow/foxy
+    update CI workflow for foxy
+  * Add CONTRIBUTING.md
+  * update .github/workflows/ROS2-Foxy.yaml
+  * update dependency.repos
+  * Add CMakeLists.txt
+  * Add package.xml
+  * Initial commit
+  * Contributors: HansRobo, Kotaro Yoshimoto, robotx_buildfarm
+
+ -- Kotaro Yoshimoto <pythagora.yoshimoto@gmail.com>  Fri, 02 Jul 2021 15:00:00 -0000
+
+
