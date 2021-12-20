@@ -1,3 +1,26 @@
+## sol_vendor (rolling) - 0.0.3-1
+
+The packages in the `sol_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --ros-distro rolling sol_vendor` on `Mon, 20 Dec 2021 15:04:21 -0000`
+
+The `sol_vendor` package was released.
+
+Version of package(s) in repository `sol_vendor`:
+
+- upstream repository: https://github.com/OUXT-Polaris/sol_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## sol_vendor (galactic) - 0.0.3-1
 
 The packages in the `sol_vendor` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --track galactic --ros-distro galactic sol_vendor` on `Mon, 20 Dec 2021 15:01:43 -0000`
