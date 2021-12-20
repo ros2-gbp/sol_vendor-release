@@ -1,0 +1,12 @@
+Source: ros-foxy-sol-vendor
+Section: misc
+Priority: optional
+Maintainer: Kotaro Yoshimoto <pythagora.yoshimoto@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-ament-cmake, ros-foxy-ament-lint-auto, ros-foxy-ouxt-lint-common, ros-foxy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-sol-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-foxy-ros-workspace
+Description: vendor package for the sol2 library
