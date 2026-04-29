@@ -1,0 +1,12 @@
+Source: ros-lyrical-sol-vendor
+Section: misc
+Priority: optional
+Maintainer: Kotaro Yoshimoto <pythagora.yoshimoto@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), git, ros-lyrical-ament-cmake, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ouxt-lint-common <!nocheck>, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/sol_vendor/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-sol-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-ros-workspace
+Description: vendor package for the sol2 library
